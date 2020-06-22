@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InterstitialAndImprint</string>
+    <string name="unitId">ca-app-pub-4098084495263757/8411912373</string>
+    <string name="appId">ca-app-pub-4098084495263757~4616137599</string>
+    <string name="unitId2">ca-app-pub-4098084495263757/8307970595</string>
+    <string name="unitId3">ca-app-pub-4098084495263757/9258870430</string>
+    <string name="interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_video_id">ca-app-pub-3940256099942544/8691691433</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

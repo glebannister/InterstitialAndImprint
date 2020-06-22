@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "576861536121",
+    "firebase_url": "https://interstitialandimprint.firebaseio.com",
+    "project_id": "interstitialandimprint",
+    "storage_bucket": "interstitialandimprint.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576861536121:android:3f3992975bf01f2eb4b9a8",
+        "android_client_info": {
+          "package_name": "com.example.interstitialandimprint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576861536121-pa77jdbkvbrni5qvk2l9na4bnnf2bjaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.interstitialandimprint",
+            "certificate_hash": "49da0c201af14bea90c97ea81616185bea5a0169"
+          }
+        },
+        {
+          "client_id": "576861536121-sio2aubv6br5lt48onliacccqf1d7q2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8LLJ_Tu6qM0QK4VFjyEM7_F_VounZq1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576861536121-sio2aubv6br5lt48onliacccqf1d7q2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
